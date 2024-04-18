@@ -1,3 +1,6 @@
+# Ver projecto
+Para ve el proyecto funcionando use el siguiente enlace: https://clima-app-riag.netlify.app/
+
 # ClimaApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9.
