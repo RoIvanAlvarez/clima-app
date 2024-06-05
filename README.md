@@ -1,4 +1,4 @@
-# Ver projecto
+# Ver proyecto
 Para ve el proyecto funcionando use el siguiente enlace: https://clima-app-riag.netlify.app/
 
 # ClimaApp
